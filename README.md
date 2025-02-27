@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco]
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco
 
 ## 🚀 Habilidades
 
