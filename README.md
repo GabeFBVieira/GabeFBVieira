@@ -25,7 +25,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-contato.gabrielfbvieira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{contato.gabrielfbvieira@gmail.com})
-[![Linkedin: Gabriel](https://img.shields.io/badge/-gabrielvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/gabriel-fvieira/)](https://www.linkedin.com/gabriel-fvieira/)
+[![Linkedin: Gabriel](https://img.shields.io/badge/-gabrielvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/gabriel-fvieira/)](www.linkedin.com/in/gabriel-fvieira)
 
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
