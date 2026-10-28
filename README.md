@@ -32,5 +32,5 @@
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail- contato.gabrielfbvieira%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.gabrielfbvieira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fvieira/)
+![Gmail Badge](https://img.shields.io/badge/-contato.gabrielfbvieira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{contato.gabrielfbvieira@gmail.com})
+[![Linkedin: Gabriel](https://img.shields.io/badge/-gabrielvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/gabriel-fvieira/)](www.linkedin.com/in/gabriel-fvieira)
