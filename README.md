@@ -2,30 +2,35 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas — Senac PE
+- 🛡️ Residência Tecnológica — Softex PE / FBR Digital
+- 💻 Foco em QA, Testes de Software e Suporte de TI
 
 ## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+### 👨‍💻 Linguagens
+[![Python, TypeScript, HTML, CSS](https://skillicons.dev/icons?i=python,typescript,html,css)](https://skillicons.dev)
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
+### 🧪 Testes de Software
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5BA745?style=for-the-badge&logo=cucumber&logoColor=white)
 
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
+### 🖥️ Sistemas e Infraestrutura
+[![Linux, Windows, Bash, PowerShell](https://skillicons.dev/icons?i=linux,windows,bash,powershell)](https://skillicons.dev)
 
-## 👨‍💻 No momento estou aprendendo:
-[![My Skills](https://skillicons.dev/icons?i=linux,python)](https://skillicons.dev)<br><br>
+### 🧰 Ferramentas
+[![Git, GitHub, VS Code](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+## 📚 Atualmente estudando
+
+- 🐍 Python e pytest
+- 🧪 Automação de testes e BDD
+- 🟦 TypeScript
+- 🔐 Segurança da Informação e Red Team
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-contato.gabrielfbvieira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{contato.gabrielfbvieira@gmail.com})
-[![Linkedin: Gabriel](https://img.shields.io/badge/-gabrielvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/gabriel-fvieira/)](www.linkedin.com/in/gabriel-fvieira)
-
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+[![Gmail](https://img.shields.io/badge/Gmail- contato.gabrielfbvieira%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.gabrielfbvieira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fvieira/)
